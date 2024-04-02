@@ -1,1 +1,1 @@
-This is a demo of the density estimation method 
+This is a demo of the density estimation method Ordinal SeqDEFT, published in W.-C. Chen, J. Zhou, and D. M. McCandlish, Density estimation for ordinal biological sequences and its applications (2024). 
