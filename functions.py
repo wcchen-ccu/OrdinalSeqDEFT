@@ -671,7 +671,7 @@ def construct_Ac(Q, markov_chain):
         print('markov_chain "model" not recognized.')
         sys.exit()
 
-    # Construct transition matrix (aka rate matrix) T
+    # Construct rate matrix T
     row_ids, col_ids, values = [], [], []
     for i in range(G):
         tmp = []
